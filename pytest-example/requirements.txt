@@ -1,0 +1,9 @@
+tensorflow
+tensorboard
+tensorboard-plugin-profile
+numpy
+matplotlib
+keras
+sklearn
+pandas
+coverage
